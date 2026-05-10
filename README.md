@@ -18,8 +18,13 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/prateeverma12/DSA_series/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/prateeverma12/DSA_series/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/prateeverma12/DSA_series/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prateeverma12/DSA_series/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
