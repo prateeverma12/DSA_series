@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/prateeverma12/DSA_series/tree/master/0279-perfect-squares) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prateeverma12/DSA_series/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prateeverma12/DSA_series/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
