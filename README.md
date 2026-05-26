@@ -44,6 +44,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prateeverma12/DSA_series/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/prateeverma12/DSA_series/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/prateeverma12/DSA_series/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/prateeverma12/DSA_series/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/prateeverma12/DSA_series/tree/master/0368-largest-divisible-subset) |
 ## Sorting
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prateeverma12/DSA_series/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/prateeverma12/DSA_series/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/prateeverma12/DSA_series/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prateeverma12/DSA_series/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/prateeverma12/DSA_series/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
