@@ -84,6 +84,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/prateeverma12/DSA_series/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/prateeverma12/DSA_series/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
